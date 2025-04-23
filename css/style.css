@@ -1,0 +1,27 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  h1, h2 {
+    color: #2c5f2d;
+  }
+  
+  .navbar {
+    background-color: #2c5f2d;
+  }
+  
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  
+  .btn-primary {
+    background-color: #2c5f2d;
+    border: none;
+  }
+  
+  .carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+  }
